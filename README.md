@@ -9,6 +9,11 @@ You need to install OpenCV and NumPy to run this project.
 When you execute, you need to pass the videos as arguments through the command line, following this format: `-vf path_to_video_with_green_screen.mp4 -vb path_to_background_video.mp4`.
 
 ## Results
+<p align="center">
+  <img src="https://github.com/AnneLivia/Chromakey/assets/31932673/eee1f8af-13b7-4f7a-a94a-0c0ae1efc0f4" width="50%"/>
+  <img src="https://github.com/AnneLivia/Chromakey/assets/31932673/70097cee-f6ed-4c0d-8d9e-2a4829780406" width="50%"/>
+  <img src="https://github.com/AnneLivia/Chromakey/assets/31932673/0756f0e5-0747-4bf6-9be5-daa75c3f1ca9" width="50%"/>
+</p>
 
 
 ## Additional Information
